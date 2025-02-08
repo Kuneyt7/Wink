@@ -1,0 +1,37 @@
+name: Clear BlockLink Cache
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+jobs:
+  clear-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clear BlockLink Cache
+        uses: actions/github-script@v7
+        with:
+          script: |
+            console.log("Starting BlockLink cache clearance...")
+            const caches = await github.rest.actions.getActionsCacheList({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+            })
+            for (const cache of caches.data.actions_caches) {
+              console.log(`Clearing cache ID: ${cache.id}, Key: ${cache.key}`)
+              await github.rest.actions.deleteActionsCacheById({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                cache_id: cache.id,
+              })
+            }
+            console.log("BlockLink cache clearance completed.")
+            
+      - name: Purge Residual BlockLink Cache  # Ensures all cache remnants are cleared
+        uses: MyAlbum/purge-cache@v2
+        with:
+          accessed: true  # Purge caches based on last accessed time
+          created: false  # Skip purging based on created time
+          max-age: 1      # Purge caches older than 1 second
