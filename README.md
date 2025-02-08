@@ -1,9 +1,5 @@
 <p align="center">
   <img src="res/logo-header.svg" alt="BlockLink - Your remote desktop"><br>
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#file-structure">Structure</a> •
-  <a href="#contributing">Contributing</a>
 </p>
 
 BlockLink is a secure, open-source remote desktop software written in Rust. It offers seamless and encrypted remote access to your devices, giving you full control over your data.
@@ -15,18 +11,7 @@ BlockLink is a secure, open-source remote desktop software written in Rust. It o
 - ✅ Self-hosting options for complete data control
 - ✅ High-performance screen sharing and file transfer
 
-BlockLink welcomes contributions from everyone. See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines on how to get started.
-
-[**BINARY DOWNLOAD**](https://github.com/rustdesk/rustdesk/releases)
-
-[**NIGHTLY BUILD**](https://github.com/rustdesk/rustdesk/releases/tag/nightly)
-
-[<img src="https://f-droid.org/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/en/packages/com.carriez.flutter_hbb)
-[<img src="https://flathub.org/api/badge?svg&locale=en"
-    alt="Get it on Flathub"
-    height="80">](https://flathub.org/apps/com.rustdesk.RustDesk)
+BlockLink welcomes contributions from everyone.
 
 ## File Structure
 
