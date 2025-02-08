@@ -1,7 +1,12 @@
 
 </p>
 
-BlockLink is a secure, open-source remote desktop software written in Rust. It offers seamless and encrypted remote access to your devices, giving you full control over your data.
+BlockLink is a secure, open-source remote desktop software written in Rust. It offers seamless and encrypted remote access to your devices, giving you full control over your data through blockchain utilization.
+
+### Our Socials: 
+- ✅ https://x.com/BlockLinkHQ
+- ✅ https://www.youtube.com/@BlockLinkYT
+- ✅ https://linktr.ee/blocklinksocials
 
 ### Key Features:
 - ✅ Cross-platform support (Windows, macOS, Linux)
