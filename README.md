@@ -5,6 +5,9 @@
 
 VelixOS is a high-performance operating system designed and optimized for gaming. Built from the ground up to minimize background processes and system overhead, VelixOS ensures that hardware resources are fully dedicated to delivering ultra-low latency, maximum frame rates, and seamless gameplay.
 
+Socials: 
+https://linktr.ee/VelixOS
+https://x.com/VelixOS1
 ---
 
 ## 🎮 Key Features
