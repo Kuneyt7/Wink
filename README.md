@@ -48,7 +48,7 @@ A unique feature that allows users to invest, trade, and manage memecoins direct
 
 ### Installation Steps
 1. **Download ISO:**  
-   Get the latest VelixOS ISO from the [official website](#).
+   Get the latest VelixOS ISO by connecting with us on x!
 
 2. **Create Bootable Media:**  
    Use tools like **Rufus** or **Etcher** to create a bootable USB drive.
