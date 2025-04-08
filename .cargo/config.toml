@@ -1,4 +1,4 @@
-### Config for Blocklink
+### Config for LinkNode
 
 [target.x86_64-pc-windows-msvc]
 rustflags = ["-Ctarget-feature=+crt-static"]
@@ -12,8 +12,8 @@ rustflags = [
 ]
 
 # [target.'cfg(target_os="linux")']
-# glibc-static required, this may fix https://github.com/blocklink/blocklink/issues/9103,
-# but I do not want this big change for BlockLink.
+# glibc-static required, this may fix https://github.com/linknode/linknode/issues/9103,
+# but I do not want this big change for LinkNode.
 # This is unlikely to help also, because the other so files still use libc dynamically
 # rustflags = [
 #     "-C", "link-args=-Wl,-Bstatic -lc -Wl,-Bdynamic"
