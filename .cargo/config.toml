@@ -1,23 +1,30 @@
 ### Config for LinkNode
 
+# Windows (64-bit)
 [target.x86_64-pc-windows-msvc]
 rustflags = ["-Ctarget-feature=+crt-static"]
 
+# Windows (32-bit)
 [target.i686-pc-windows-msvc]
-rustflags = ["-C", "target-feature=+crt-static", "-C", "link-args=/NODEFAULTLIB:MSVCRT"]
+rustflags = [
+    "-C", "target-feature=+crt-static",
+    "-C", "link-args=/NODEFAULTLIB:MSVCRT"
+]
 
+# macOS
 [target.'cfg(target_os="macos")']
 rustflags = [
     "-C", "link-args=-sectcreate __CGPreLoginApp __cgpreloginapp /dev/null",
 ]
 
+# Linux (optional static glibc link)
+# This may help with compatibility (see: https://github.com/linknode/linknode/issues/9103)
+# but introduces major changes and is likely unnecessary as shared libs still depend on libc.
 # [target.'cfg(target_os="linux")']
-# glibc-static required, this may fix https://github.com/linknode/linknode/issues/9103,
-# but I do not want this big change for LinkNode.
-# This is unlikely to help also, because the other so files still use libc dynamically
 # rustflags = [
 #     "-C", "link-args=-Wl,-Bstatic -lc -Wl,-Bdynamic"
 # ]
 
+# Networking behavior
 [net]
 git-fetch-with-cli = true
