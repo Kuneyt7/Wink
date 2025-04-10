@@ -23,10 +23,7 @@
   </a>
   <span style="color: #ccc;">|</span>
 
-  <!-- Hackathon Button -->
-  <a href="https://hackathon.linknode.com" target="_blank">
-    <img src="./assets/hackathon-icon.png" alt="Hackathon" width="50" style="margin: 0 20px;" />
-  </a>
+
 </p>
 
 
