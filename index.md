@@ -7,7 +7,7 @@
 
   <!-- Colosseum Button -->
   <a href="https://arena.colosseum.org/profiles/LinkNode" target="_blank">
-    <img src="./assets/colosseum.png" alt="Colosseum" width="50" style="margin: 0 20px;" />
+    <img src="./assets/Solana.png" alt="Colosseum" width="50" style="margin: 0 20px;" />
   </a>
   <span style="color: #ccc;">|</span>
 
