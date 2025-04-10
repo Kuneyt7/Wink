@@ -1,6 +1,6 @@
 <p align="center">
   <!-- GitHub Button -->
-  <a href="https://github.com/tebniar" target="_blank">
+  <a href="[https://github.com/tebniar](https://github.com/Tebniar/LinkNodePRO)" target="_blank">
     <img src="./assets/Github.png" alt="GitHub" width="50" style="margin: 0 20px;" />
   </a>
   <span style="color: #ccc;">|</span>
