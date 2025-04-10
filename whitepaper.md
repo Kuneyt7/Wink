@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./assets/1500x500.jpg" alt="LinkNode Banner" width="100%" />
+  <br /><br />
+  <img src="./assets/vfnQA2ad_400x400.jpg" alt="LinkNode Logo" width="120" />
+</p>
+
+
+
+
 # ⚡ LinkNode Whitepaper
 
 
