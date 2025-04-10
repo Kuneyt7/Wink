@@ -19,7 +19,7 @@
 
   <!-- YouTube Button -->
   <a href="https://www.youtube.com/@LinknodePRO" target="_blank">
-    <img src="./assets/Youtube.png" alt="YouTube" width="50" style="margin: 0 20px;" />
+    <img src="./assets/Youtube1.png" alt="YouTube" width="50" style="margin: 0 20px;" />
   </a>
   <span style="color: #ccc;">|</span>
 
