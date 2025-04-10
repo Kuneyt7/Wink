@@ -21,7 +21,7 @@ No installs. No friction. Just **link & node**.
 ## 🛠 Getting Started
 
 No setup needed. Just link your wallet and go live.
-📄 [Read the LinkNode Whitepaper](./whitepaper.md)
+📄 [Read the LinkNode Whitepaper](./index.md)
 
 
 ```bash
