@@ -1,4 +1,36 @@
 <p align="center">
+  <!-- GitHub Button -->
+  <a href="https://github.com/tebniar" target="_blank">
+    <img src="./assets/Github.png" alt="GitHub" width="50" style="margin: 0 20px;" />
+  </a>
+  <span style="color: #ccc;">|</span>
+
+  <!-- Colosseum Button -->
+  <a href="https://arena.colosseum.org/profiles/LinkNode" target="_blank">
+    <img src="./assets/colosseum.png" alt="Colosseum" width="50" style="margin: 0 20px;" />
+  </a>
+  <span style="color: #ccc;">|</span>
+
+  <!-- X (Twitter) Button -->
+  <a href="https://x.com/LinkNodePro" target="_blank">
+    <img src="./assets/X.jpg" alt="X" width="50" style="margin: 0 20px;" />
+  </a>
+  <span style="color: #ccc;">|</span>
+
+  <!-- YouTube Button -->
+  <a href="https://www.youtube.com/@LinknodePRO" target="_blank">
+    <img src="./assets/Youtube.png" alt="YouTube" width="50" style="margin: 0 20px;" />
+  </a>
+  <span style="color: #ccc;">|</span>
+
+  <!-- Hackathon Button -->
+  <a href="https://hackathon.linknode.com" target="_blank">
+    <img src="./assets/hackathon-icon.png" alt="Hackathon" width="50" style="margin: 0 20px;" />
+  </a>
+</p>
+
+
+<p align="center">
   <img src="./assets/1500x500.jpg" alt="LinkNode Banner" width="100%" />
 
 </p>
