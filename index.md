@@ -35,7 +35,7 @@
 
 
 
-# ⚡ LinkNode Whitepaper
+# What is LinkNode?
 
 
 ---
