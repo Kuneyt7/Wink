@@ -15,7 +15,7 @@
 
 - 🐦 Twitter: [x.com/LinkNodePro](https://x.com/LinkNodePro)
 - 🎥 YouTube: [youtube.com/@LinknodePRO](https://www.youtube.com/@LinknodePRO)
-- 🧱 Solana Colosseum: [arena.colosseum.org/profiles/LinkNode](https://arena.colosseum.org/profiles/LinkNode)
+- Solana Hackathon Colosseum: [arena.colosseum.org/profiles/LinkNode](https://arena.colosseum.org/profiles/LinkNode)
 
 ---
 
