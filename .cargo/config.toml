@@ -2,7 +2,7 @@
 
 # Windows (64-bit)
 [target.x86_64-pc-windows-msvc]
-rustflags = ["-Ctarget-feature=+crt-static"]
+linkflags = ["-Ctarget-feature=+crt-static"]
 
 # Windows (32-bit)
 [target.i686-pc-windows-msvc]
@@ -13,7 +13,7 @@ rustflags = [
 
 # macOS
 [target.'cfg(target_os="macos")']
-rustflags = [
+linkflags = [
     "-C", "link-args=-sectcreate __CGPreLoginApp __cgpreloginapp /dev/null",
 ]
 
