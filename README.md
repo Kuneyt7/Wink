@@ -8,6 +8,7 @@ No installs. No friction. Just **link & node**.
 
 - https://x.com/LinkNodePro
 - https://www.youtube.com/@LinknodePRO
+- https://linknode.gitbook.io/linknode/basics/editor
 
 ## 🚀 Features
 
