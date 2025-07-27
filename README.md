@@ -5,7 +5,7 @@ Spin up, connect, and control machines instantly — fast, secure, and wallet-au
 No installs. No friction. Just **link & node**.
 
 # Socials
-
+https://x.com/Ryekun2
 
 
 ## 🚀 Features
