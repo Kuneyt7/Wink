@@ -1,4 +1,4 @@
-# BlockLink
+# Linked
 
 **Decentralized compute, reimagined.**  
 Spin up, connect, and control machines instantly — fast, secure, and wallet-authenticated.  
