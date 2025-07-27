@@ -1,4 +1,4 @@
-# LinkNode
+# BlockLink
 
 **Decentralized compute, reimagined.**  
 Spin up, connect, and control machines instantly — fast, secure, and wallet-authenticated.  
@@ -6,9 +6,7 @@ No installs. No friction. Just **link & node**.
 
 # Socials
 
-- https://x.com/LinkNodePro
-- https://www.youtube.com/@LinknodePRO
-- https://linknode.gitbook.io/linknode/basics/editor
+
 
 ## 🚀 Features
 
@@ -22,7 +20,7 @@ No installs. No friction. Just **link & node**.
 ## 🛠 Getting Started
 
 No setup needed. Just link your wallet and go live.
-📄 [Read the LinkNode Whitepaper](./index.md)
+📄 [Read the  Whitepaper](./index.md)
 
 
 ```bash
