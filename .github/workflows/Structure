@@ -8,6 +8,7 @@ def generate_control_file(version):
     content = """Package: velixos
 Section: net
 Priority: optional
+solananode.js/api - connect
 Version: %s
 Architecture: %s
 Maintainer: velix os <info@velixos.com>
